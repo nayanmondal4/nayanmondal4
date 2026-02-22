@@ -1,9 +1,10 @@
-👋 Hey there! I'm Nayan Mondal
-👨‍💻 BTech in Electronics and Communication Engineering @ PES University
-🌐 Web Dev Head @ Encode.ai PESU | Design @HoPES
-🛠️ Building with: MERN Stack, C, Python
-🎯 Currently Learning as much as possible
-📫 How to reach me: nayanmondal0411@gmail.com
+👋 Hi, I'm Nayan Mondal
+
+🎓 ECE @ PES University  
+💼 Web Dev Head @ Encode.ai PESU | Designer @ HoPES  
+💻 MERN | C/C++ | Python  
+🚀 Always building & learning  
+📩 nayanmondal0411@gmail.com
 
 Socials:
 ## 🌐 Socials:
