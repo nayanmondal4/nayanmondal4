@@ -1,10 +1,17 @@
-👋 Hi, I'm Nayan Mondal
-
-🎓 ECE @ PES University  
-💼 Web Dev Head @ Encode.ai PESU | Designer @ HoPES  
-💻 MERN | C/C++ | Python  
-🚀 Always building & learning  
-📩 nayanmondal0411@gmail.com
+👋 Hey there! I'm Nayan Mondal
+🎓 BTech in Electronics & Communication Engineering  
+🏫 PES University  
+💼 Web Dev @ Encode.ai PESU  
+🎨 Designer @ HoPES  
+🎬 Adobe After Effects & Adobe Premiere Pro
+🛠 Tech Interests:
+- MERN Stack
+- C & C++
+- Python
+🚀 Currently:
+- Learning as much as possible
+📫 Reach me at:
+nayanmondal0411@gmail.com
 
 Socials:
 ## 🌐 Socials:
