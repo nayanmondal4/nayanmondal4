@@ -11,7 +11,6 @@
 🛠 Tech Interests:
 - MERN Stack  
 - C  
-- C++  
 - Python  
 
 🚀 Currently:
