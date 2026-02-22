@@ -6,9 +6,9 @@
 🎨 Designer @ HoPES  
 🎬 Adobe After Effects & Adobe Premiere Pro
 🛠 Tech Interests:
--MERN Stack
--C & C++
--Python
+ -MERN Stack
+ -C & C++
+ -Python
 🚀 Currently:
 - Learning as much as possible
 📫 Reach me at:
