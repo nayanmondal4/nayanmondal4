@@ -1,16 +1,22 @@
-👋 Hey there! I'm Nayan Mondal
+👋 Hey there! I'm Nayan Mondal  
 
 🎓 BTech in Electronics & Communication Engineering  
 🏫 PES University  
+
 💼 Web Dev @ Encode.ai PESU  
 🎨 Designer @ HoPES  
-🎬 Adobe After Effects & Adobe Premiere Pro
+
+🎬 Adobe After Effects & Adobe Premiere Pro  
+
 🛠 Tech Interests:
- -MERN Stack
- -C & C++
- -Python
+- MERN Stack  
+- C  
+- C++  
+- Python  
+
 🚀 Currently:
-- Learning as much as possible
+- Learning as much as possible  
+
 📫 Reach me at:
 nayanmondal0411@gmail.com
 
