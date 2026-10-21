@@ -9,7 +9,7 @@
 🎬 Adobe After Effects & Adobe Premiere Pro  
 
 🛠 Tech Interests:
-- MERN Stack  
+- MERN  
 - C  
 - Python  
 
